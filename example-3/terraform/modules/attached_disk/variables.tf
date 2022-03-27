@@ -1,0 +1,7 @@
+variable "disk" {
+
+}
+
+variable "instance" {
+
+}
